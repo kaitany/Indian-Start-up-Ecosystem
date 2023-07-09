@@ -1,4 +1,4 @@
-Company_Brand,Founded,HeadQuarter,Sector,What_it_does,Founders,Investor,Amount,Stage
+Company/Brand,Founded,HeadQuarter,Sector,What_it_does,Founders,Investor,Amount ($),Stage
 Bombay Shaving,,,Ecommerce,Provides a range of male grooming products,Shantanu Deshpande,Sixth Sense Ventures,"$6,300,000 ",
 Ruangguru,2014,Mumbai,Edtech,"A learning platform that provides topic-based journey, animated videos, quizzes, infographic and mock tests to students","Adamas Belva Syah Devara, Iman Usman.",General Atlantic,"$150,000,000 ",Series C
 Eduisfun,,Mumbai,Edtech,It aims to make learning fun via games.,Jatin Solanki,"Deepak Parekh, Amitabh Bachchan, Piyush Pandey","$28,000,000 ",Fresh funding
@@ -40,7 +40,7 @@ Observe.AI,,Bangalore,AI,Creates a voice AI platform,Swapnil,Scale Venture Partn
 Freshokartz,2016,Jaipur,E-marketplace,Online fruits and vegetables delivery company,Rajendra Lora,ThinkLab,"$150,000 ",Pre series A
 Lil’ Goodness and sCool meal,,Bangalore,Food & Nutrition,It empowers moms to provide the best of foods to their Lil' ones,,"Sajan Pillai, Muthu Krishnan,","$400,000 ",
 Trell,2016,Bangalore,Social Media,Blogging platform that enables people to create visual collections of their travel and local experiences,"Pulkit Agrawal, Prashant Sachan, Arun Lodhi, Bimal Kartheek Rebba","Ruizheng Investment, Tej Kapoor, Krinshavataram Venkata Vinjamuri, Harsh Shah","$2,000,000 ",Pre series A
-VMate,,,,A short video platform,,Alibaba,"$100,000,000 ",
+VMate,,,Technology,A short video platform,,Alibaba,"$100,000,000 ",
 Bombay Shirt Company,2012,Mumbai,E-commerce,Online custom shirt brand,Akshay Narvekar,Lightbox Ventures,"$8,000,000 ",
 Slintel,2016,,SaaS,"It helps sales and marketing teams understand purchase intent of buyers on buying patterns, usage and renewals",Deepak Anchala,Stellaris Ventures,"$1,500,000 ",
 MyGameMate,,Bangalore,E-Sports,eSports platform where players can access various multiplayer mobile games to participate in online tournaments,Parshavv Jain& Raju Kushwaha,"Jindagi Live Angels,","$100,000 ",
@@ -48,15 +48,15 @@ Afinoz,,Noida,Fintech,Online financial marketplace for customized rate quotes on
 Rein Games,,Noida,Technology,"It develops, publishes and distributes games across various platforms","Vaibhav Gupta, Himanshu Devra, Pranav Chaudhary, Nishtha Gupta","Manipal Education and Medical Group (MEMG) family office, Titan Capital","$50,000,000 ",Pre series A
 Ecozen,,Pune,AgriTech,It develops technology-enabled products to strengthen the farm-to-fork value chain of perishables.,"Devendra Gupta, Prateek Singhal, Vivek Pandey",Innovation in Food & Agriculture Fund (IFA Fund),"$6,000,000 ",Series A
 Box8,2011,Mumbai,Foodtech,Enables to order food online,"Amit Raj, Anshul Gupta",Trifecta Capital,"$120,000,000 ",
-Awign Enterprises,2016,Bangalore,,It supplies workforce to the economy,"Annanya Sarthak, Gurpreet Singh, Praveen Sah","Work10M, Michael and Susan Dell Foundation, Eagle10, Unitus Ventures.","$4,000,000 ",Series A
+Awign Enterprises,2016,Bangalore,HR tech,It supplies workforce to the economy,"Annanya Sarthak, Gurpreet Singh, Praveen Sah","Work10M, Michael and Susan Dell Foundation, Eagle10, Unitus Ventures.","$4,000,000 ",Series A
 Purplle,2012,Mumbai,Cosmetics,Online makeup and beauty products retailer,"Manish Taneja, Rahul Dash",Goldman Sachs,"$30,000,000 ",Series C
 Freightwalla,2017,Mumbai,B2B,Provides digital platform for businesses to plan and manage their international freight shipments online,"Sanjay Bhatia, Bharat Tanvi, Punit Java","Amplo, FJ Labs, Rogue One Capital","$4,000,000 ",Series A
-TapChief,2016,Bangalore,,It connects individuals in need of advice in a specific domain to individuals who have expertise in the same,"Shashank Murali, Binay Krishna, Arjun Krishna",Blume Ventures.,"$1,500,000 ",Pre series A
+TapChief,2016,Bangalore,B2B,It connects individuals in need of advice in a specific domain to individuals who have expertise in the same,"Shashank Murali, Binay Krishna, Arjun Krishna",Blume Ventures.,"$1,500,000 ",Pre series A
 eJOHRI,2015,Mumbai,Jewellery,Omnichannel marketplace for gems and jewellery,"Jignesh Mehta, Shailen Mehta",Rajesh Ranavat,"$1,000,000 ",Pre series A
 Ninjacart,2015,,B2B Supply Chain,"It connects producers of food directly to retailers, restuarants and service providers.","Thirukumaran Nagarajanin, Vasudevan Chinnathambi","Walmart, Flipkart",Undisclosed,
 Binca Games,2014,Mumbai,Games,It offers games that are available across India and UK.,"Rubianca Wadhwa, Sahil Wadhwa",Sunil Gavaskar,Undisclosed,
-KredX,,Bangalore,,Invoice discounting platform,Manish Kumar,Tiger Global Management,"$26,000,000 ",Series B
-m.Paani,,Mumbai,,It digitizes and organises local retailers,Akanksha Hazari,"AC Ventures, Henkel","$5,500,000 ",Series A
+KredX,,Bangalore,Fintech,Invoice discounting platform,Manish Kumar,Tiger Global Management,"$26,000,000 ",Series B
+m.Paani,,Mumbai,Technology,It digitizes and organises local retailers,Akanksha Hazari,"AC Ventures, Henkel","$5,500,000 ",Series A
 Origo,2010,Gurugram,AgriTech,It provides post-harvest management services for agricultural commodities,"Mayank Dhanuka, Sunoor Kaul","Oikocredit, Caspian SME Impact Fund IV,  Triodos Investment Management","$6,800,000 ",
 WishADish,,Delhi,Food & tech,Provides management solution for restaurants,"Sawan Kumar, Bhavya Bhambhani",Undisclosed,"$6,000,000 ",
 Ecom Express,2012,Gurugram,Logistics,It is a technology enabled logistics solutions provider to the Indian e-commerce industry,"Krishnan, Manju Dhawan, K Satyanarayana, Sanjeev Saxena",CDC Group,"$36,000,000 ",
