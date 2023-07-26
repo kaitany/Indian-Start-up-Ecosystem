@@ -1,6 +1,6 @@
 # Data Analysis Project: Indian Start-up Ecosystem
 
-This project is based on funding received by startup in india between 2018 to 2021. The objective of this project is to provide insights to key stakeholders interested in venturing into the indian startup ecosystem. Entrepreneurs can leverage analytics to make informed decisions about investments, business risks and opportunities to explore. I analyzed key metrics in funding received by startups in india and the insights gained will be used by startup management to make data driven decisions.
+This project is based on funding received by startup in India between 2018 to 2021. The objective of this project is to provide insights to key stakeholders interested in venturing into the Indian startup ecosystem. Entrepreneurs can leverage analytics to make informed decisions about investments, business risks and opportunities to explore. I analyzed key metrics in funding received by startups in India and the insights gained will be used by startup management to make data driven decisions.
 
 ## 1. Hypothesis
 **Null:** The location of a startup doesn't affect the amount of funding received from investors.
