@@ -1,6 +1,6 @@
 # Data Analysis Project: Indian Start-up Ecosystem
 
-This project is based on funding received by startup in India between 2018 to 2021. The objective of this project is to provide insights to key stakeholders interested in venturing into the Indian startup ecosystem. Entrepreneurs can leverage analytics to make informed decisions about investments, business risks and opportunities to explore. I analyzed key metrics in funding received by startups in India and the insights gained will be used by startup management to make data driven decisions.
+This project is based on funding received by startup in India between 2018 to 2021. The objective of this project was to provide insights to key stakeholders interested in venturing into the Indian startup ecosystem. Entrepreneurs can leverage analytics to make informed decisions about investments, business risks and opportunities to explore. I analyzed key metrics in funding received by startups in India and the insights gained were to used by startup management to make data driven investment decisions.
 
 ## 1. Hypothesis
 **Null:** The location of a startup doesn't affect the amount of funding received from investors.
@@ -13,7 +13,7 @@ This project is based on funding received by startup in India between 2018 to 20
  
 |**Article**           |       Links          |                 Description               |
 |:---------------------:|:-------------------:|:-------------------------------------------:|
-|**:PowerBi**          |https://app.powerbi.com/links/3D9PWIZQMc?ctid=4487b52f-f118-4830-b49d-3c298cb71075&pbi_source=linkShare                     |Visual representation of my project in a Dashboard|
+|**PowerBi**          |https://app.powerbi.com/links/3D9PWIZQMc?ctid=4487b52f-f118-4830-b49d-3c298cb71075&pbi_source=linkShare                     |Visual representation of my project in a Dashboard|
 |**Medium**            |https://medium.com/@benjaminkipkem/analysis-of-indian-startup-ecosytem-based-on-funding-from-2018-2021-bae001d37a67                     |Published article with interactive visuals.                              |
 
 
